@@ -1,0 +1,26 @@
+{
+    "easy": [
+        {
+            "name": "Temple of Time",
+            "image": "https://cdn.discordapp.com/attachments/1041212270975385772/1041292450318262312/image.png"
+        }
+    ],
+    "medium": [
+        {
+            "name": "Come una Folgore",
+            "image": "/images/sample-medium.png"
+        }
+    ],
+    "hard": [
+        {
+            "name": "season2 Lv3 Hell",
+            "image": "https://cdn.discordapp.com/attachments/1041212270975385772/1041291177732870214/image.png"
+        }
+    ],
+    "legendary": [
+        {
+            "name": "Spitfire",
+            "image": "/images/sample-legendary.png"
+        }
+    ]
+}
